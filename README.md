@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Gid.
+# 👋 Hi, I’m Gid Alves.
 
 - 🎓 I’m a student of Analysis and Systems Development at Mackenzie University.
+- 🌍 I'm from São Paulo, Brazil.
 - 🎮 I’m interested in games and love spending my free time exploring new worlds.
 - 🐶 I have 2 adorable dogs who always keep me on my toes!
 - 📚 I’m always learning and currently diving deep into Full Stack development with a focus on IBM cloud solutions.

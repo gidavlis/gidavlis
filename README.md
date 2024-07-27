@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gidavlis
+# 👋 Hi, I’m Gid.
 
 - 🎓 I’m a student of Analysis and Systems Development at Mackenzie University.
 - 🎮 I’m interested in games and love spending my free time exploring new worlds.

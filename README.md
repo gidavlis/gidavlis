@@ -7,4 +7,4 @@
 - 📚 I’m always learning and currently diving deep into Full Stack development with a focus on IBM cloud solutions.
 - 😄 Pronouns: He/Him
 
-Right now, I'm focused on my studies and personal projects.
+# Right now, I'm focused on my studies and personal projects.
